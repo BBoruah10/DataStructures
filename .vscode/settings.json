@@ -1,10 +1,11 @@
 {
   "java.project.sourcePaths": [
+    "6.String",
     "5.BinarySearch",
     "4.Arrays",
     "3.Sorting",
     "2.Recursion",
     "1.SimpleMath",
-    "6.String"
+    "7.LinkedList"
   ]
 }
